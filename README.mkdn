@@ -6,7 +6,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository, use a command like this:
 
-    repo init -u https://github.com/AdrianoMartins/caf_manifest.git -b android-5.1
+    repo init -u https://github.com/AdrianoMartins/caf_manifest.git -b msm8226
 
 Then to sync up:
 
